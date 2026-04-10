@@ -25,8 +25,13 @@ This is a console-based chatbot built in C# that helps users learn about cyberse
 2. Run the application
 3. Interact with the chatbot
 
-##  CI Workflow Screenshot
-(Add your screenshot here)
+##  Screenshots
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3e2707e6-4be3-4f8c-9b4c-58a03d86072f" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e25806a6-d971-410f-a78f-fe23302dbeba" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7e2b9afa-d9bc-4d95-928d-97ffa21676c7" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b281769c-60bb-4ef5-9839-1d84ae090a83" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8b717a25-2cfe-4857-a7ca-c4fb73faf93d" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bbea972e-7168-4f27-a6ac-ba39ff8f0cc4" />
 
 ##  Presentation Video
 (Add your YouTube link here)
