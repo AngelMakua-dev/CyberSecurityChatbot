@@ -86,6 +86,7 @@ public class Chatbot
     {
         UIHelper.ClearScreen();
         Console.WriteLine("\n--- PASSWORD SAFETY ---");
+        UIHelper.TypeText("Password safety is safety practices of creating and managing passwords in a secure way to prevent unauthorized access to personal accounts and information.");
         UIHelper.TypeText("Strong passwords should have:");
         UIHelper.TypeText("- At least 12 characters");
         UIHelper.TypeText("- Uppercase and lowercase letters");
@@ -107,6 +108,7 @@ public class Chatbot
     {
         UIHelper.ClearScreen();
         Console.WriteLine("\n--- SAFE BROWSING ---");
+        UIHelper.TypeText("Safe browsing is the practice of using the internet in a secure manner to protect personal information and prevent exposure to online threats.");
         UIHelper.TypeText("Tips for safe browsing:");
         UIHelper.TypeText("- Always check URLs before clicking");
         UIHelper.TypeText("- Look for 'https://' and padlock icon");
