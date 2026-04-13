@@ -26,12 +26,11 @@ This is a console-based chatbot built in C# that helps users learn about cyberse
 3. Interact with the chatbot
 
 ##  Screenshots
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3e2707e6-4be3-4f8c-9b4c-58a03d86072f" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e25806a6-d971-410f-a78f-fe23302dbeba" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7e2b9afa-d9bc-4d95-928d-97ffa21676c7" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b281769c-60bb-4ef5-9839-1d84ae090a83" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8b717a25-2cfe-4857-a7ca-c4fb73faf93d" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bbea972e-7168-4f27-a6ac-ba39ff8f0cc4" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ab314f53-b27c-4d4e-92ba-3a1c2f9ebebc" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a0a2d2dd-95f6-4882-84c5-ca8e9cc034f9" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/62dececc-de37-448e-be35-bfc95fd9e6a4" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d96bf382-8f93-419f-bacc-888443cd691e" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/af0b0b30-d3fd-4319-82b3-a4e7629cb061" />
 
 ##  Presentation Video
 (Add your YouTube link here)
