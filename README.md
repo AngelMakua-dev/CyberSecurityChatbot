@@ -26,6 +26,7 @@ This is a console-based chatbot built in C# that helps users learn about cyberse
 3. Interact with the chatbot
 
 ##  Screenshots
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9c507f37-da90-49ce-b019-7f43a9726f0e" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ab314f53-b27c-4d4e-92ba-3a1c2f9ebebc" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a0a2d2dd-95f6-4882-84c5-ca8e9cc034f9" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/62dececc-de37-448e-be35-bfc95fd9e6a4" />
